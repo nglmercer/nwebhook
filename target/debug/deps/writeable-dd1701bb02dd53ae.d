@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\apis\nwebhook\target\debug\deps\libwriteable-dd1701bb02dd53ae.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs
+
+C:\Users\Admin\Documents\apis\nwebhook\target\debug\deps\writeable-dd1701bb02dd53ae.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs:
