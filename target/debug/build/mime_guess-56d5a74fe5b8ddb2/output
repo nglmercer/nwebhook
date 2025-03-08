@@ -1,1 +1,0 @@
-cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\Admin\Documents\apis\nwebhook\target\debug\build\mime_guess-56d5a74fe5b8ddb2\out\mime_types_generated.rs
